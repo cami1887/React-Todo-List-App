@@ -1,3 +1,7 @@
+# React To Do List
+
+Created by following <a href="https://www.youtube.com/watch?v=E1E08i2UJGI" target="_blank" >this tutorial</a> made by Brian Design on YouTube. The purpose of this tutorial is to practice using React hooks such as useState, useEffect, and useRef. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
